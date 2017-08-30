@@ -1,0 +1,27 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "Moja pierwsza próba",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy-dan/MyFirst.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Andrzej Daniluk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy-dan/MyFirst/issues"
+  },
+  "homepage": "https://github.com/andy-dan/MyFirst#readme",
+  "devDependencies": {
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
